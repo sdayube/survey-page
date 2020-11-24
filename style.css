@@ -13,8 +13,8 @@ body {
 }
 
 .flex-container {
-  background-color: #BDD4E7;
-  border: 1px solid #81523f;
+  background-color: #cdd2d6;
+  border: 1px solid #616161;
   border-radius: 30px;
   display: flex;
   flex-direction: column;
@@ -62,16 +62,16 @@ label[for="text-area"] {
 }
 
 #submit {
-  background-color: #6f9eb4;
+  background-color: #8197a2;
   padding: 5px 20px;
   font-size: 1.2em;
   border-radius: 20px;
   color: aliceblue;
-  border: 2px solid #80a6b8;
+  border: 2px solid #83a5b4;
 }
 
 #submit:hover {
-  background-color: #55abd3;
+  background-color: #74a0b4;
 }
 
 @media only screen and ( max-width: 800px) {
